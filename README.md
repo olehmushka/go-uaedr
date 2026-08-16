@@ -1,5 +1,11 @@
 # go-uaedr
 
+[![CI](https://github.com/olehmushka/go-uaedr/actions/workflows/ci.yml/badge.svg)](https://github.com/olehmushka/go-uaedr/actions/workflows/ci.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/olehmushka/go-uaedr.svg)](https://pkg.go.dev/github.com/olehmushka/go-uaedr)
+[![Go Report Card](https://goreportcard.com/badge/github.com/olehmushka/go-uaedr)](https://goreportcard.com/report/github.com/olehmushka/go-uaedr)
+[![License](https://img.shields.io/github/license/olehmushka/go-uaedr)](LICENSE)
+[![Latest Release](https://img.shields.io/github/v/tag/olehmushka/go-uaedr)](https://github.com/olehmushka/go-uaedr/releases)
+
 A small Go client for Ukraine's **ЄДР** (Unified State Register of Legal Entities) open-data
 export, published by the Ministry of Justice at [data.gov.ua](https://data.gov.ua) (dataset
 `03cc1239-3988-4451-aa0d-aadb77448714`, resource `uo.zip`), updated weekly, free.
